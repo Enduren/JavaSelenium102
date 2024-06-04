@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="testng102.dataProvider">
+        <methods>
+          <include name="setup"/>
+          <include name="signOut"/>
+          <include name="end"/>
+          <include name="signin"/>
+        </methods>
+      </class> <!-- testng102.dataProvider -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

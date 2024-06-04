@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-04T01:12:11Z" name="Default suite" finished-at="2024-06-04T01:12:44Z" duration-ms="32709">
+    <groups>
+    </groups>
+    <test started-at="2024-06-04T01:12:11Z" name="Default test" finished-at="2024-06-04T01:12:44Z" duration-ms="32709">
+      <class name="Section12_Parameterising.Login5">
+        <test-method signature="signin()[pri:0, instance:Section12_Parameterising.Login5@38604b81]" started-at="2024-06-03T20:12:11Z" name="signin" finished-at="2024-06-03T20:12:44Z" duration-ms="32681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+      </class> <!-- Section12_Parameterising.Login5 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
